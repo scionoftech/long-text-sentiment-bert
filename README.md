@@ -1,2 +1,2 @@
-# long-text-sentiment-bert
-Sentiment Analysis for Longer Text using BERT
+# Long Text Sentiment BERT
+Sentiment Analysis for Long Text using BERT
